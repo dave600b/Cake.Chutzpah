@@ -14,8 +14,8 @@
     <tags>Cake Script Build Chutzpah</tags>
   </metadata>
   <files>
-    <file src="Cake.Chutzpah.dll" target="lib\net45" />
-    <file src="Cake.Chutzpah.pdb" target="lib\net45" />
-    <file src="Cake.Chutzpah.xml" target="lib\net45" />
+    <file src="Cake.Chutzpah.dll" target="lib\net461" />
+    <file src="Cake.Chutzpah.pdb" target="lib\net461" />
+    <file src="Cake.Chutzpah.xml" target="lib\net461" />
   </files>
 </package>
